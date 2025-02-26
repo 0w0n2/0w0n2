@@ -1,12 +1,39 @@
 ![headerimage](image/header.jpg)
-# 환영합니다...
-### 제 페이지에 오신 걸...
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-🐙 Solved.ac (BOJ) </h2> <br> 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0w0n)  
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=0w0n&theme=warm)
+<br>
+<div align="center">
+    <pre style="border-bottom: none; color: rgba(44, 44, 44, 0.87); background-color: transparent; font-family: monospace; text-align: left;">
+          ∧,,,∧  
+         (• ⩊ •)  ♥
+         ￣U U￣￣￣￣￣￣￣￣￣ 
+                WellCome    
+         ￣￣￣￣￣￣￣￣￣￣￣￣
+    </pre>
+</div>
 
-</div><br>
-<div align= "center"> 
-<h2 style="border-bottom: 1px solid
+<div align="center">
+    <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);"> 
+        Solved.ac (BOJ) 🐳
+    </h2> 
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0w0n" alt="Solved.ac 프로필"/>  
+    <img src="http://mazandi.herokuapp.com/api?handle=0w0n&theme=warm" alt="mazandi profile"/>
+</div>
+
+<br>
+
+<hr style="width: 100%; height: 0; border: none; border-top: 1px dashed #d8dee4;">
+
+<div align="center">
+    <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);"> 
+        Stats 🚀 
+    </h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=0w0n2&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=true" height="150" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=true" height="150" alt="languages graph"/>
+</div>
+
+<br>
+<div align="center">
+    <h4 style="border-bottom: none; color: rgba(172, 218, 255, 0.87);">   
+        ♥ ♥ ♥
+</div>
+<br>
