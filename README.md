@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<img src="image/header.jpg" style="width 100%;">
+  <img src="image/header.jpg" style="width: 100%; display: block; margin: 0 auto;">
 </div>
 
 <br>
