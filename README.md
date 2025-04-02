@@ -1,4 +1,6 @@
-![headerimage](image/header.jpg)
+<div style="text-align: center;">
+<img src="image/header.jpg" style="width 100%;">
+</div>
 
 <br>
 <div align="center">
