@@ -26,7 +26,7 @@
 <br>
 
 <!-- <hr style="width: 100%; height: 0; border: none; border-top: 1px dashed #d8dee4;"> -->
-<hr />
+<!-- <hr /> -->
 
 <div align="center">
     <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);"> 
@@ -37,7 +37,7 @@
 </div>
 
 <br>
-<hr />
+<!-- <hr /> -->
 <div align= "center">
     <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);"> 
         Certification 🪪 </h2>
