@@ -19,9 +19,9 @@
     <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);"> 
        APS (Solved.ac) 🍎
     </h2> 
+    <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/0w0n" width="600" height="300"/></a>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0w0n" alt="Solved.ac 프로필"/>  
     <img src="http://mazandi.herokuapp.com/api?handle=0w0n&theme=warm" alt="mazandi profile"/>
-    <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/0w0n" width="600" height="300"/></a>
 </div>
 
 <br>
