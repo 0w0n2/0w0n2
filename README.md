@@ -46,44 +46,46 @@
     <!-- <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);">  -->
     <h2 style="color: rgba(33, 85, 255, 0.87);">
         🎓 Education </h2>
-    <table>
-        <thead>
-            <tr>
-                <th>교육기관</th>
-                <th>기간</th>
-                <th>비고</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>
-                삼성 청년 SW 아카데미
-                    <a href=https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp target="_blank">SSAFY</a> 13기 입과
-                </td>
-                <td>2025.01.07 ~</td>
-                <td>삼성 SW 역량 테스트 A 등급 취득</td>
-            </tr>
-            <tr>
-                <td>국립부경대학교 정보융합대학 스마트헬스케어학부 
-                    <a href=https://bme.pknu.ac.kr/bme/7220 target="_blank">의공학전공</a> 졸업</td>
-                <td>2021.03.02 ~ 2025.02.21</td>
-                <td>
-                    <!-- 성적 블럭 -->
-                    <div style="margin-bottom: 8px;">
-                        <strong>[학업 성적]</strong><br>
-                        - 평점 평균: <strong>4.15</strong> / 4.5<br>
-                        - 전공 평균: <strong>4.13</strong> / 4.5
-                    </div>
-                    <!-- 연구실 블럭 -->
-                    <div>
-                        <strong>[연구 활동]</strong><br>
-                        - 전산 생물물리 연구실 학부연구생 (2022 ~ 2025)<br>
-                        - 분자모델링 및 시뮬레이션<sup><a href="https://www.gromacs.org/" target="_blank">+GROMACS</a></sup> 기반 생체분자 구조·기능 연구<sup><a href="https://www.sciencedirect.com/science/article/abs/pii/S1748013225000234" target="_blank">+논문</a></sup>
-                    </div>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <div align="center">
+        <table>
+            <thead>
+                <tr>
+                    <th>교육기관</th>
+                    <th>기간</th>
+                    <th>비고</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                    삼성 청년 SW 아카데미
+                        <a href=https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp target="_blank">SSAFY</a> 13기 입과
+                    </td>
+                    <td>2025.01.07 ~</td>
+                    <td>삼성 SW 역량 테스트 A 등급 취득</td>
+                </tr>
+                <tr>
+                    <td>국립부경대학교 정보융합대학 스마트헬스케어학부 
+                        <a href=https://bme.pknu.ac.kr/bme/7220 target="_blank">의공학전공</a> 졸업</td>
+                    <td>2021.03.02 ~ 2025.02.21</td>
+                    <td>
+                        <!-- 성적 블럭 -->
+                        <div style="margin-bottom: 8px;">
+                            <strong>[학업 성적]</strong><br>
+                            - 평점 평균: <strong>4.15</strong> / 4.5<br>
+                            - 전공 평균: <strong>4.13</strong> / 4.5
+                        </div>
+                        <!-- 연구실 블럭 -->
+                        <div>
+                            <strong>[연구 활동]</strong><br>
+                            - 전산 생물물리 연구실 학부연구생 (2022 ~ 2025)<br>
+                            - 분자모델링 및 시뮬레이션<sup><a href="https://www.gromacs.org/" target="_blank">+GROMACS</a></sup> 기반 생체분자 구조·기능 연구<sup><a href="https://www.sciencedirect.com/science/article/abs/pii/S1748013225000234" target="_blank">+논문</a></sup>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 <br>
 <!-------------- 교육 영역 끝 -------------->
@@ -91,30 +93,32 @@
 <div align= "left">
     <h2 style="color: rgba(33, 85, 255, 0.87);"> 
         🔎 Certifications </h2>
-    <table>
-        <thead>
-            <tr>
-                <th>이름</th>
-                <th>자격종류</th>
-                <th>시행기관</th>
-                <th>취득일</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>의공기사</td>
-                <td>국가기술자격</td>
-                <td>한국산업인력공단</td>
-                <td>2024.08.07</td>
-            </tr>
-            <tr>
-                <td>리눅스마스터 2급</td>
-                <td>국가공인민간자격</td>
-                <td>한국정보통신진흥협회</td>
-                <td>2024.12.14</td>
-            </tr>
-        </tbody>
-    </table>
+    <div align="center">
+        <table>
+            <thead>
+                <tr>
+                    <th>이름</th>
+                    <th>자격종류</th>
+                    <th>시행기관</th>
+                    <th>취득일</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>의공기사</td>
+                    <td>국가기술자격</td>
+                    <td>한국산업인력공단</td>
+                    <td>2024.08.07</td>
+                </tr>
+                <tr>
+                    <td>리눅스마스터 2급</td>
+                    <td>국가공인민간자격</td>
+                    <td>한국정보통신진흥협회</td>
+                    <td>2024.12.14</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 <br>
 <!-------------- 자격증 영역 끝 -------------->
