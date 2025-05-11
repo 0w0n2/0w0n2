@@ -149,6 +149,9 @@
         <li><strong>협업 및 문서화</strong> | Git, GitHub, Notion, Figma</li>
         <li><strong>알고리즘</strong> | Java, Python</li>
     </ul>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0w0n2&langs_count=10&layout=compact&theme=vue-dark" alt="Top Langs" />
+    </div>
 </div>
 <br>
 <!-------------- 기술스택 영역 끝 -------------->
