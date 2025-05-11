@@ -115,7 +115,10 @@
     <h2 style="color: rgba(33, 85, 255, 0.87);">
         🎉 Awards & Research </h2>
     <li>[교내] 2023.12 LINC 3.0 사업단 2023-2학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>장려상</strong>)</li>
-    <li>[교내] 2024.07 LINC 3.0 사업단 2024-1학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>대상</strong>)</li>
+    <li>
+        [교내] 2024.07 LINC 3.0 캡스톤디자인 경진대회 단장상 (<strong>대상</strong>)<br>
+        <span style="margin-left: 1em;">- 스마트폰 화면 추적 숙면 유도 장치</span>
+    </li>
     <li>
         Kim, Nam-Gyun, et al. "Harnessing marine-derived polyphenols for the one-pot synthesis of functional silver nanoparticles: Anti-cancer, anti-bacterial, and MD simulation." Nano Today 61 (2025): <a href=https://www.sciencedirect.com/science/article/abs/pii/S1748013225000234 target="_blank">102651.</a>
     </li>
@@ -128,10 +131,11 @@
         🛠️ Skills </h2>
     <ul>
         <li><strong>백엔드</strong> | Java(Spring), MySQL</li>
-        <li><strong>DevOps</strong> | Linux, Apache</li>
         <li><strong>프론트엔드</strong> | HTML, CSS, JavaScript</li>
-        <li><strong>협업 및 문서화</strong> | Git, GitHub, Notion, Figma, MS Office</li>
-        <li><strong>알고리즘 및 언어</strong> | Java, Python</li>
+        <li><strong>DevOps</strong> | Linux, Apache</li>
+        <li><strong>임베디드 및 하드웨어</strong> | Atmega128, Embedded C, Microchip Studio, SolidWorks</li>
+        <li><strong>협업 및 문서화</strong> | Git, GitHub, Notion, Figma</li>
+        <li><strong>알고리즘</strong> | Java, Python</li>
     </ul>
 </div>
 <br>
