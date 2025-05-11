@@ -13,7 +13,15 @@
         ￣￣￣￣￣￣￣￣￣￣￣￣
     </pre>
 </div>
-
+<!-------------- 컨택트 영역 시작 -------------->
+<div align= "left">
+    <h2 style="color: rgba(33, 85, 255, 0.87);">
+        📫 Contact </h2>
+    <ul>
+        <li><strong>Email</strong> | dahxtq1@naver.com </li>
+</div>
+<br>
+<!-------------- 컨택트 영역 끝 -------------->
 <!-------------- 알고리즘 영역 시작 -------------->
 <br>
 <div align="left">
@@ -117,7 +125,9 @@
     <li>[교내] 2023.12 LINC 3.0 사업단 2023-2학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>장려상</strong>)</li>
     <li>
         [교내] 2024.07 LINC 3.0 캡스톤디자인 경진대회 단장상 (<strong>대상</strong>)<br>
-        <span style="margin-left: 1em;">- 스마트폰 화면 추적 숙면 유도 장치</span>
+        <div style="margin-left: 1em;">
+            - 🛏️ <strong>Sweet Dreams</strong> : 스마트폰 화면 상태를 감지해 클라우드 서버에 HTTP 요청을 보내고, 서버가 아두이노 장치를 제어하는 수면 유도 장치  
+        </div>
     </li>
     <li>
         Kim, Nam-Gyun, et al. "Harnessing marine-derived polyphenols for the one-pot synthesis of functional silver nanoparticles: Anti-cancer, anti-bacterial, and MD simulation." Nano Today 61 (2025): <a href=https://www.sciencedirect.com/science/article/abs/pii/S1748013225000234 target="_blank">102651.</a>
