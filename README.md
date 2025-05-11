@@ -114,8 +114,8 @@
 <div align= "left">
     <h2 style="color: rgba(33, 85, 255, 0.87);">
         🎉 Awards & Research </h2>
-    <li>2023.12 LINC 3.0 사업단 2023-2학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>장려상</strong>)</li>
-    <li>2024.07 LINC 3.0 사업단 2024-1학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>대상</strong>)</li>
+    <li>[교내] 2023.12 LINC 3.0 사업단 2023-2학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>장려상</strong>)</li>
+    <li>[교내] 2024.07 LINC 3.0 사업단 2024-1학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>대상</strong>)</li>
     <li>
         Kim, Nam-Gyun, et al. "Harnessing marine-derived polyphenols for the one-pot synthesis of functional silver nanoparticles: Anti-cancer, anti-bacterial, and MD simulation." Nano Today 61 (2025): <a href=https://www.sciencedirect.com/science/article/abs/pii/S1748013225000234 target="_blank">102651.</a>
     </li>
