@@ -14,34 +14,75 @@
     </pre>
 </div>
 
+<!-------------- 알고리즘 영역 시작 -------------->
 <br>
-<div align="center">
-    <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);"> 
-       🍎 APS (Solved.ac)
+<div align="left">
+    <h2 style="color: rgba(33, 85, 255, 0.87);">
+       🐈‍ APS (Solved.ac)
     </h2> 
-    <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/0w0n" width="600" height="300"/></a>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0w0n" alt="Solved.ac 프로필"/>  
-    <img src="http://mazandi.herokuapp.com/api?handle=0w0n&theme=warm" alt="mazandi profile"/>
+    <div align="center">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0w0n" alt="Solved.ac 프로필"/>  
+        <img src="http://mazandi.herokuapp.com/api?handle=0w0n&theme=warm" alt="mazandi profile"/>
+        <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/0w0n" width="600" height="300"/></a>
+    </div>
 </div>
-
 <br>
+<!-------------- 알고리즘 영역 끝 -------------->
 
 <!-- <hr style="width: 100%; height: 0; border: none; border-top: 1px dashed #d8dee4;"> -->
 <!-- <hr /> -->
 
-<div align="center">
-    <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);"> 
-       🚀 Stats
-    </h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=0w0n2&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=true" height="150" alt="stats graph"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=true" height="150" alt="languages graph"/>
-</div>
-
-<br>
+<!-------------- 교육 영역 시작 -------------->
 <!-- <hr /> -->
-<div align= "center">
-    <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);"> 
-        🔎 Certification </h2>
+<div align= "left">
+    <!-- <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);">  -->
+    <h2 style="color: rgba(33, 85, 255, 0.87);">
+        🎓 Education </h2>
+    <table>
+        <thead>
+            <tr>
+                <th>교육기관</th>
+                <th>기간</th>
+                <th>비고</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                삼성 청년 SW 아카데미
+                    <a href=https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp target="_blank">SSAFY</a> 13기 입과
+                </td>
+                <td>2025.01.07 ~</td>
+                <td>삼성 SW 역량 테스트 A 등급 취득</td>
+            </tr>
+            <tr>
+                <td>국립부경대학교 정보융합대학 스마트헬스케어학부 
+                    <a href=https://bme.pknu.ac.kr/bme/7220 target="_blank">의공학전공</a> 졸업</td>
+                <td>2021.03.02 ~ 2025.02.21</td>
+                <td>
+                    <!-- 성적 블럭 -->
+                    <div style="margin-bottom: 8px;">
+                        <strong>[학업 성적]</strong><br>
+                        - 평점 평균: <strong>4.15</strong> / 4.5<br>
+                        - 전공 평균: <strong>4.13</strong> / 4.5
+                    </div>
+                    <!-- 연구실 블럭 -->
+                    <div>
+                        <strong>[연구 활동]</strong><br>
+                        - 전산 생물물리 연구실 학부연구생 (2022 ~ 2025)<br>
+                        - 분자모델링 및 시뮬레이션<sup><a href="https://www.gromacs.org/" target="_blank">+GROMACS</a></sup> 기반 생체분자 구조·기능 연구<sup><a href="https://www.sciencedirect.com/science/article/abs/pii/S1748013225000234" target="_blank">+논문</a></sup>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<br>
+<!-------------- 교육 영역 끝 -------------->
+<!-------------- 자격증 영역 시작 -------------->
+<div align= "left">
+    <h2 style="color: rgba(33, 85, 255, 0.87);"> 
+        🔎 Certifications </h2>
     <table>
         <thead>
             <tr>
@@ -49,29 +90,52 @@
                 <th>자격종류</th>
                 <th>시행기관</th>
                 <th>취득일</th>
-                <th>비고</th>
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td>리눅스마스터2급</td>
-                <td>국가공인민간자격</td>
-                <td>한국정보통신진흥협회</td>
-                <td>2024.12.14</td>
-                <td></td>
-            </tr>
             <tr>
                 <td>의공기사</td>
                 <td>국가기술자격</td>
                 <td>한국산업인력공단</td>
                 <td>2024.08.07</td>
-                <td></td>
+            </tr>
+            <tr>
+                <td>리눅스마스터 2급</td>
+                <td>국가공인민간자격</td>
+                <td>한국정보통신진흥협회</td>
+                <td>2024.12.14</td>
             </tr>
         </tbody>
     </table>
 </div>
-
 <br>
+<!-------------- 자격증 영역 끝 -------------->
+<!-------------- 대회 영역 시작 -------------->
+<div align= "left">
+    <h2 style="color: rgba(33, 85, 255, 0.87);">
+        🎉 Awards & Research </h2>
+    <li>2023.12 LINC 3.0 사업단 2023-2학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>장려상</strong>)</li>
+    <li>2024.07 LINC 3.0 사업단 2024-1학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>대상</strong>)</li>
+    <li>
+        Kim, Nam-Gyun, et al. "Harnessing marine-derived polyphenols for the one-pot synthesis of functional silver nanoparticles: Anti-cancer, anti-bacterial, and MD simulation." Nano Today 61 (2025): <a href=https://www.sciencedirect.com/science/article/abs/pii/S1748013225000234 target="_blank">102651.</a>
+    </li>
+</div>
+<br>
+<!-------------- 대회 영역 끝 -------------->
+<!-------------- 기술스택 영역 시작 -------------->
+<div align= "left">
+    <h2 style="color: rgba(33, 85, 255, 0.87);"> 
+        🛠️ Skills </h2>
+    <ul>
+        <li><strong>백엔드</strong> | Java(Spring), MySQL</li>
+        <li><strong>DevOps</strong> | Linux, Apache</li>
+        <li><strong>프론트엔드</strong> | HTML, CSS, JavaScript</li>
+        <li><strong>협업 및 문서화</strong> | Git, GitHub, Notion, Figma, MS Office</li>
+        <li><strong>알고리즘 및 언어</strong> | Java, Python</li>
+    </ul>
+</div>
+<br>
+<!-------------- 기술스택 영역 끝 -------------->
 <div align="center">
     <h4 style="border-bottom: none; color: rgba(172, 218, 255, 0.87);">   
         ♥ ♥ ♥
