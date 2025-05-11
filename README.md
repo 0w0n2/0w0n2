@@ -17,8 +17,7 @@
 <div align= "left">
     <h2 style="color: rgba(33, 85, 255, 0.87);">
         📫 Contact </h2>
-    <ul>
-        <li><strong>Email</strong> | dahxtq1@naver.com </li>
+    <li><strong>Email</strong> | dahxtq1@naver.com </li>
 </div>
 <br>
 <!-------------- 컨택트 영역 끝 -------------->
