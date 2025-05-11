@@ -124,9 +124,9 @@
   <p>📌 <strong>[교내]</strong> 2023.12 LINC 3.0 사업단 2023-2학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>장려상</strong>)</p>
 
   <p>📌 <strong>[교내]</strong> 2024.07 LINC 3.0 캡스톤디자인 경진대회 단장상 (<strong>대상</strong>)</p>
+  &nbsp;&nbsp;&nbsp;&nbsp; 🛏️ <strong>Sweet Dreams</strong> : 스마트폰 화면 상태를 감지해 클라우드 서버에 HTTP 요청을 보내고, 서버가 아두이노 장치를 제어하는 수면 유도 장치
   <p style="margin-left: 2em;">
-    🛏️ <strong>Sweet Dreams</strong> : 스마트폰 화면 상태를 감지해 클라우드 서버에 HTTP 요청을 보내고,  
-    서버가 아두이노 장치를 제어하는 수면 유도 장치
+    
   </p>
   <p>
     📖 Kim, Nam-Gyun, et al. "Harnessing marine-derived polyphenols for the one-pot synthesis of functional silver nanoparticles: Anti-cancer, anti-bacterial, and MD simulation." 
