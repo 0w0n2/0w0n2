@@ -1,22 +1,23 @@
 <div style="text-align: center;">
-  <img src="image/header4.jpg" style="width: 100%; display: block; margin: 0 auto;">
+  <img src="image/header2.jpg" style="width: 100%; display: block; margin: 0 auto;">
 </div>
 
-<br>
+<!-- <br>
 <div align="center">
     <pre style="border-bottom: none; color: rgba(44, 44, 44, 0.87); background-color: transparent; font-family: monospace; text-align: left;">
-         ∧,,,∧                
-        (• ⩊ •)  ♥           
-        ￣U U￣￣￣￣￣￣￣￣￣ 
-               WellCome      
-               　             
+         ∧,,,∧
+        (• ⩊ •)  ♥
+        ￣U U￣￣￣￣￣￣￣￣￣
+               WellCome
+               　
         ￣￣￣￣￣￣￣￣￣￣￣￣
     </pre>
-</div>
+</div> -->
 <!-------------- 컨택트 영역 시작 -------------->
 <div align= "left">
     <h2 style="color: rgba(33, 85, 255, 0.87);">
         📫 Contact </h2>
+    <h4>이혜원 (Hyewon Lee)</h4>
     <li><strong>Email</strong> | 0w0n2x@gmail.com </li>
 </div>
 <br>
@@ -142,7 +143,7 @@
         🛠️ Skills </h2>
     <ul>
         <li><strong>백엔드</strong> | Java(Spring), MySQL</li>
-        <li><strong>프론트엔드</strong> | HTML, CSS, JavaScript</li>
+        <li><strong>프론트엔드</strong> | HTML, CSS, JavaScript, Vue.js</li>
         <li><strong>DevOps</strong> | Linux, Apache</li>
         <li><strong>임베디드 및 하드웨어</strong> | Atmega128, Embedded C, Microchip Studio, SolidWorks</li>
         <li><strong>협업 및 문서화</strong> | Git, GitHub, Notion, Figma</li>
