@@ -77,7 +77,7 @@
                     <!-- 연구실 블럭 -->
                     <div>
                         <strong>[연구 활동]</strong><br>
-                        - 전산 생물물리 연구실 학부연구생 (2022 ~ 2025)<br>
+                        - 전산 생물물리 연구실 학부연구생 (2022.06.02 ~ 2024.12.31)<br>
                         - 분자모델링 및 시뮬레이션<sup><a href="https://www.gromacs.org/" target="_blank">+GROMACS</a></sup> 기반 생체분자 구조·기능 연구<sup><a href="https://www.sciencedirect.com/science/article/abs/pii/S1748013225000234" target="_blank">+논문</a></sup>
                     </div>
                 </td>
