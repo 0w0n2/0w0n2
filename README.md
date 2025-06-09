@@ -46,7 +46,7 @@
     <!-- <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);">  -->
     <h2 style="color: rgba(33, 85, 255, 0.87);">
         🎓 Education </h2>
-    <table>
+    <table align="center">
         <thead>
             <tr>
                 <th>교육기관</th>
@@ -91,7 +91,7 @@
 <div align= "left">
     <h2 style="color: rgba(33, 85, 255, 0.87);"> 
         🔎 Certifications </h2>
-    <table>
+    <table align="center">
         <thead>
             <tr>
                 <th>이름</th>
@@ -140,7 +140,7 @@
 <!-------------- 기술스택 영역 시작 -------------->
 <div align= "left">
     <h2 style="color: rgba(33, 85, 255, 0.87);"> 🛠️ Skills </h2>
-    <table width="100%">
+    <table width="100%" align="center">
         <thead>
             <tr>
             <th>분야</th>
