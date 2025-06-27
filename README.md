@@ -112,43 +112,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0w0n2&layout=compact&theme=tokyonight-light" />
     <br/>
 </div>
-
 <br>
 <!-------------- 기술스택 영역 끝 -------------->
-
-<!-- <hr style="width: 100%; height: 0; border: none; border-top: 1px dashed #d8dee4;"> -->
-<!-- <hr /> -->
-
-<!-------------- 알고리즘 영역 시작 -------------->
-<br>
-<div align="left">
-    <a href="https://solved.ac/profile/0w0n" target="_blank"><h2 style="color: rgba(33, 85, 255, 0.87);">
-       🐈‍ APS (Solved.ac)
-    </h2></a>
-    <div align="center">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0w0n" alt="Solved.ac 프로필"/>  
-        <img src="http://mazandi.herokuapp.com/api?handle=0w0n&theme=warm" alt="mazandi profile"/>
-        <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/0w0n" width="600" height="300"/></a>
-    </div>
-</div>
-<br>
-<!-------------- 알고리즘 영역 끝 -------------->
-<!-------------- 블로그 영역 시작 -------------->
-<br>
-<!--https://github.com/olrlobt/blog-widget-->
-<div align="left">
-    <a href="https://velog.io/@0w0n/posts" target="_blank"><h2 style="color: rgba(33, 85, 255, 0.87);">
-       📝 Blog
-    </h2></a>
-    <div align="center">
-        <a href="https://velog.io/@0w0n/posts"><img src="https://blogwidget.com/api/v/blog?name=0w0n"></a>
-        <a href="https://blogwidget.com/api/v/link/0?name=0w0n"><img src="https://blogwidget.com/api/v/posting/0?name=0w0n" alt="최신글 1"></a>
-        <a href="https://blogwidget.com/api/v/link/1?name=0w0n"><img src="https://blogwidget.com/api/v/posting/1?name=0w0n" alt="최신글 2"></a>
-        <br>
-    </div>
-</div>
-<br>
-<!-------------- 블로그 영역 끝 -------------->
 <!-------------- 교육 영역 시작 -------------->
 <!-- <hr /> -->
 <br>
@@ -200,7 +165,7 @@
 <!-------------- 자격증 영역 시작 -------------->
 <div align= "left">
     <h2 style="color: rgba(33, 85, 255, 0.87);"> 
-        🔎 Certifications </h2>
+        📜 Certifications </h2>
     <table align="center">
         <thead>
             <tr>
@@ -235,6 +200,61 @@
 <br>
 <!-------------- 자격증 영역 끝 -------------->
 <!-------------- 대회 영역 시작 -------------->
+<div align= "left">
+    <h2 style="color: rgba(33, 85, 255, 0.87);"> 
+        🏆 Competitions </h2>
+    <table align="center">
+        <thead>
+            <tr>
+                <th>기간</th>
+                <th>대회명/레포지토리</th>
+                <th>분야</th>
+                <th>성과</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2025.05 ~ 2025.06</td>
+                <td><a href="https://github.com/DAN-MU-ZI/Hecto-Challenge" target="_blank">HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회</a></td>
+                <td>AI 모델 개발 > 이미지 분류</td>
+                <td>45 위/ 748 팀</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<br>
+<!-------------- 대회 영역 끝 -------------->
+<!-------------- 알고리즘 영역 시작 -------------->
+<br>
+<div align="left">
+    <a href="https://solved.ac/profile/0w0n" target="_blank"><h2 style="color: rgba(33, 85, 255, 0.87);">
+       🐾 Algorithm (Solved.ac)
+    </h2></a>
+    <div align="center">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0w0n" alt="Solved.ac 프로필"/>  
+        <img src="http://mazandi.herokuapp.com/api?handle=0w0n&theme=warm" alt="mazandi profile"/>
+        <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/0w0n" width="600" height="300"/></a>
+    </div>
+</div>
+<br>
+<!-------------- 알고리즘 영역 끝 -------------->
+<!-------------- 블로그 영역 시작 -------------->
+<br>
+<!--https://github.com/olrlobt/blog-widget-->
+<div align="left">
+    <a href="https://velog.io/@0w0n/posts" target="_blank"><h2 style="color: rgba(33, 85, 255, 0.87);">
+       📝 Blog
+    </h2></a>
+    <div align="center">
+        <a href="https://velog.io/@0w0n/posts"><img src="https://blogwidget.com/api/v/blog?name=0w0n"></a>
+        <a href="https://blogwidget.com/api/v/link/0?name=0w0n"><img src="https://blogwidget.com/api/v/posting/0?name=0w0n" alt="최신글 1"></a>
+        <a href="https://blogwidget.com/api/v/link/1?name=0w0n"><img src="https://blogwidget.com/api/v/posting/1?name=0w0n" alt="최신글 2"></a>
+        <br>
+    </div>
+</div>
+<br>
+<!-------------- 블로그 영역 끝 -------------->
+<!------------- 수상/연구 영역 시작 ------------->
 <br>
 <div align="left">
   <h2 style="color: rgba(33, 85, 255, 0.87);">🎉 Awards & Research</h2>
@@ -253,7 +273,7 @@
 </div>
 
 <br>
-<!-------------- 대회 영역 끝 -------------->
+<!-------------- 수상/연구 영역 끝 -------------->
 <div align="center">
     <h4 style="border-bottom: none; color: rgba(172, 218, 255, 0.87);">   
         ♥ ♥ ♥
