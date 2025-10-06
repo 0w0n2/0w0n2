@@ -25,7 +25,7 @@
 <!-------------- 기술스택 영역 시작 -------------->
 <br>
 <div align= "left">
-    <h2 style="color: rgba(33, 85, 255, 0.87);"> 🛠️ Skills </h2>
+    <!-- <h2 style="color: rgba(33, 85, 255, 0.87);"> 🛠️ Skills </h2>
     <table width="100%" align="center">
         <thead>
             <tr>
@@ -102,7 +102,7 @@
             </td>
             </tr>
         </tbody>
-    </table>
+    </table> -->
 </div>
 
 <br>
@@ -242,7 +242,7 @@
 <!-------------- 블로그 영역 시작 -------------->
 <br>
 <!--https://github.com/olrlobt/blog-widget-->
-<div align="left">
+<!-- <div align="left">
     <a href="https://velog.io/@0w0n/posts" target="_blank"><h2 style="color: rgba(33, 85, 255, 0.87);">
        📝 Blog
     </h2></a>
@@ -252,7 +252,7 @@
         <a href="https://blogwidget.com/api/v/link/1?name=0w0n"><img src="https://blogwidget.com/api/v/posting/1?name=0w0n" alt="최신글 2"></a>
         <br>
     </div>
-</div>
+</div> -->
 <br>
 <!-------------- 블로그 영역 끝 -------------->
 <!------------- 수상/연구 영역 시작 ------------->
