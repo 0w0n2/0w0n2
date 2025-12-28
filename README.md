@@ -15,8 +15,8 @@
 </div> -->
 <!-------------- 컨택트 영역 시작 -------------->
 <div align= "left">
-    <h4 style="color: rgba(33, 85, 255, 0.87);">
-        ☎️ Contact </h4>
+    <h3 style="color: rgba(33, 85, 255, 0.87);">
+        ☎️ Contact </h3>
     <h4>이혜원 (Hyewon Lee)</h4>
     <li><strong>Email</strong> | 0w0n2x@gmail.com </li>
     <li><a href="https://www.linkedin.com/in/%ED%98%9C%EC%9B%90-%EC%9D%B4-a72783386/"><strong>Linked In 🔗</strong></a></li>
@@ -28,8 +28,8 @@
 <!-------------- 교육 영역 시작 -------------->
 <!-- <hr /> -->
 <div align= "left">
-    <h4 style="color: rgba(33, 85, 255, 0.87);">
-        🎓 Education </h4>
+    <h3 style="color: rgba(33, 85, 255, 0.87);">
+        🎓 Education </h3>
     <table align="center">
         <thead>
             <tr>
@@ -85,8 +85,8 @@
 <!-------------- 교육 영역 끝 -------------->
 <!-------------- 자격증 영역 시작 -------------->
 <div align= "left">
-    <h4 style="color: rgba(33, 85, 255, 0.87);"> 
-        📚 Certifications </h4>
+    <h3 style="color: rgba(33, 85, 255, 0.87);"> 
+        📚 Certifications </h3>
     <table align="center">
         <thead>
             <tr>
@@ -128,8 +128,8 @@
 <!-------------- 자격증 영역 끝 -------------->
 <!-------------- 프로젝트 영역 시작 -->
 <div align= "left">
-    <h4 style="color: rgba(33, 85, 255, 0.87);"> 
-        🚀 Projects </h4>
+    <h3 style="color: rgba(33, 85, 255, 0.87);"> 
+        🚀 Projects </h3>
     <table>
     <thead>
         <tr>
@@ -165,8 +165,8 @@
 <!-------------- 프로젝트 영역 끝 -->
 <!-------------- 대회 영역 시작 -------------->
 <div align= "left">
-    <h4 style="color: rgba(33, 85, 255, 0.87);"> 
-        🏆 Competitions </h4>
+    <h3 style="color: rgba(33, 85, 255, 0.87);"> 
+        🏆 Competitions </h3>
     <table align="center">
         <thead>
             <tr>
@@ -191,9 +191,9 @@
 <!-------------- 알고리즘 영역 시작 -------------->
 <br>
 <div align="left">
-    <a href="https://solved.ac/profile/0w0n" target="_blank"><h4 style="color: rgba(33, 85, 255, 0.87);">
+    <a href="https://solved.ac/profile/0w0n" target="_blank"><h3 style="color: rgba(33, 85, 255, 0.87);">
        🐳 Algorithm (Solved.ac)
-    </h4></a>
+    </h3></a>
     <div align="center">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0w0n" alt="Solved.ac 프로필"/>  
         <img src="http://mazandi.herokuapp.com/api?handle=0w0n&theme=warm" alt="mazandi profile"/>
@@ -222,7 +222,7 @@
 <!------------- 수상/연구 영역 시작 ------------->
 <br>
 <div align="left">
-  <h4 style="color: rgba(33, 85, 255, 0.87);">🎉 Awards & Research</h4>
+  <h3 style="color: rgba(33, 85, 255, 0.87);">🎉 Awards & Research</h3>
   <!-- <p>📌 <strong>[교내]</strong> 2023.12 LINC 3.0 사업단 2023-2학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>장려상</strong>)</p>
   <p>📌 <strong>[교내]</strong> 2024.07 LINC 3.0 사업단 2024-1학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>대상</strong>)</p> -->
   <!-- &nbsp;&nbsp;&nbsp;&nbsp; 🛏️ <strong>Sweet Dreams</strong> : 스마트폰 화면 상태를 감지해 클라우드 서버에 HTTP 요청을 보내고, 서버가 아두이노 장치를 제어하는 수면 유도 장치 -->
