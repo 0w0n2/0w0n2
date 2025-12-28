@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="image/happy_manbo.jpg" style="width: 100%; display: block; margin: 0 auto;">
+  <img src="https://i.pinimg.com/originals/1d/de/95/1dde9502e125555da3795ff2cbf6b5fc.gif" style="width: 100%; display: block; margin: 0 auto;">
 </div>
 
 <!-- <br>
@@ -15,112 +15,21 @@
 </div> -->
 <!-------------- 컨택트 영역 시작 -------------->
 <div align= "left">
-    <h2 style="color: rgba(33, 85, 255, 0.87);">
-        📫 Contact </h2>
+    <h4 style="color: rgba(33, 85, 255, 0.87);">
+        ☎️ Contact </h4>
     <h4>이혜원 (Hyewon Lee)</h4>
     <li><strong>Email</strong> | 0w0n2x@gmail.com </li>
+    <li><a href="https://www.linkedin.com/in/%ED%98%9C%EC%9B%90-%EC%9D%B4-a72783386/"><strong>Linked In 🔗</strong></a></li>
+    <li><a href="https://recondite-crystal-dac.notion.site/Portfolio-0w0n2-2b686992872680beb6d9e925c9525186?source=copy_link"><strong>Portfolio 🔗</strong></a></li>
 </div>
-<br>
+</div>
 <!-------------- 컨택트 영역 끝 -------------->
-<!-------------- 기술스택 영역 시작 -------------->
 <br>
-<div align= "left">
-    <!-- <h2 style="color: rgba(33, 85, 255, 0.87);"> 🛠️ Skills </h2>
-    <table width="100%" align="center">
-        <thead>
-            <tr>
-            <th>분야</th>
-            <th>기술 스택</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-            <td><strong>Languages & Algorithms</strong></td>
-            <td>
-                <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white">
-                <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54">
-            </td>
-            </tr>
-            <tr>
-            <td><strong>Backend</strong></td>
-            <td>
-                <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
-                <img alt="Spring Boot" src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white">
-                <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white">
-                <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-000000?style=plastic">
-                <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white">
-            </td>
-            </tr>
-            <tr>
-            <td><strong>Frontend</strong></td>
-            <td>
-                <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-                <img alt="CSS" src="https://img.shields.io/badge/css-1572B6?style=plastic&logo=css3&logoColor=white">
-                <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
-                <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
-            </td>
-            </tr>
-            <tr>
-            <td><strong>DevOps</strong></td>
-            <td>
-                <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
-                <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white">
-                <img alt="CentOS" src="https://img.shields.io/badge/cent%20os-002260?style=plastic&logo=centos&logoColor=F0F0F0">
-                <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white">
-            </td>
-            </tr>
-            <tr>
-            <td><strong>Embedded & Hardware</strong></td>
-            <td>
-                <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-                <img alt="Microchip Studio" src="https://img.shields.io/badge/Microchip%20Studio-black?style=plastic">
-                <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-red?style=plastic">
-            </td>
-            </tr>
-            <tr>
-            <td><strong>Development Tools</strong></td>
-            <td>
-                <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
-                <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white">
-                <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white">
-                <img alt="STS" src="https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=plastic">
-            </td>
-            </tr>
-            <tr>
-        <td><strong>Design & Creative Tools</strong></td>
-        <td>
-            <img alt="Clip Studio Paint" src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=plastic&logo=ClipStudioPaint&logoColor=white">
-            <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white">
-        </td>
-        </tr>
-            <tr>
-            <td><strong>Collaboration & Docs</strong></td>
-            <td>
-                <img alt="Git" src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
-                <img alt="GitHub" src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
-                <img alt="Notion" src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white">
-            </td>
-            </tr>
-        </tbody>
-    </table> -->
-</div>
-
-<br>
-
-<div align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=0w0n2&show_icons=true&theme=tokyonight-light" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0w0n2&layout=compact&theme=tokyonight-light" />
-    <br/>
-</div>
-<br>
-<!-------------- 기술스택 영역 끝 -------------->
 <!-------------- 교육 영역 시작 -------------->
 <!-- <hr /> -->
-<br>
 <div align= "left">
-    <!-- <h2 style="border-bottom: none; color: rgba(33, 85, 255, 0.87);">  -->
-    <h2 style="color: rgba(33, 85, 255, 0.87);">
-        🎓 Education </h2>
+    <h4 style="color: rgba(33, 85, 255, 0.87);">
+        🎓 Education </h4>
     <table align="center">
         <thead>
             <tr>
@@ -133,9 +42,21 @@
             <tr>
                 <td>
                 삼성 청년 SW 아카데미
-                    <a href=https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp target="_blank">SSAFY</a> 13기 입과
+                    <a href=https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp target="_blank">SSAFY</a> 13기
                 </td>
-                <td>2025.01.07 ~</td>
+                <td>2025.01.07 ~ 2025.12.31</td>
+                <td><strong>SW 역량 테스트 등급:</strong> 모의 A 취득<br><strong>Certificate 등급:</strong> 최우수(상위 5%內)<br><strong>출석률: </strong> 98.7%(공가 3일)<br>
+                <details>
+                    <summary><strong>[수상 내역]</strong></summary>
+                    <ul style="margin-top: 10px;">
+                        <li>25.12.18 / 부산지방고용노동청장상 (우수상)</li>
+                        <li>25.12.02 / 프로젝트 전시발표회 발표부문 입상</li>
+                        <li>25.11.20 / 자율 프로젝트 우수상(부울경 1반 1위)</li>
+                        <li>25.09.29 / 특화 프로젝트 우수상(부울경 1반 3위)</li>
+                        <li>25.08.18 / 공통 프로젝트 우수상(부울경 1반 1위)</li>
+                    </ul>
+                </details>
+                </td>
                 <!-- <td>삼성 SW 역량 테스트 A 등급 취득</td> -->
             </tr>
             <tr>
@@ -164,8 +85,8 @@
 <!-------------- 교육 영역 끝 -------------->
 <!-------------- 자격증 영역 시작 -------------->
 <div align= "left">
-    <h2 style="color: rgba(33, 85, 255, 0.87);"> 
-        📜 Certifications </h2>
+    <h4 style="color: rgba(33, 85, 255, 0.87);"> 
+        📚 Certifications </h4>
     <table align="center">
         <thead>
             <tr>
@@ -176,6 +97,12 @@
             </tr>
         </thead>
         <tbody>
+            <tr>
+                <td>정보처리기사</td>
+                <td>국가기술자격</td>
+                <td>한국산업인력공단</td>
+                <td>2025.12.24</td>
+            </tr>
             <tr>
                 <td>SQL 개발자(SQLD)</td>
                 <td>국가공인민간자격</td>
@@ -199,10 +126,47 @@
 </div>
 <br>
 <!-------------- 자격증 영역 끝 -------------->
+<!-------------- 프로젝트 영역 시작 -->
+<div align= "left">
+    <h4 style="color: rgba(33, 85, 255, 0.87);"> 
+        🚀 Projects </h4>
+    <table>
+    <thead>
+        <tr>
+            <th>서비스명</th>
+            <th>설명</th>
+            <th>Github</th>
+            <th>회고</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center"><strong>🔊 Voida</strong></td>
+            <td>립리딩 모델과 WebRTC 기술을 활용한 청각장애인 구화 인식 기반 화상 통화 프로젝트</td>
+            <td align="center"><a href="https://github.com/gyudol/voida">🔗</a></td>
+            <td align="center"><a href="https://recondite-crystal-dac.notion.site/VOIDA-2b68699287268024bd5fd5370666dddb?source=copy_link">🔗</a></td>
+        </tr>
+        <tr>
+            <td align="center"><strong>🐙 TAKO</strong></td>
+            <td>하자 검증 비전 모델과 블록체인 컨트랙트 기술이 적용된 TCG 카드 경매 서비스</td>
+            <td align="center"><a href="https://github.com/0w0n2/tako">🔗</a></td>
+            <td align="center"><a href="https://recondite-crystal-dac.notion.site/TAKO-2b686992872680bea5f9fc22a47872b6?source=copy_link">🔗</a></td>
+        </tr>
+        <tr>
+            <td align="center"><strong>🌲 NAMUH</strong></td>
+            <td>소아암 환아를 위한 휴머노이드 친구 프로젝트</td>
+            <td align="center"><a href="https://github.com/0w0n2/namuh">🔗</a></td>
+            <td align="center"><a href="https://recondite-crystal-dac.notion.site/NAMUH-2b686992872680d280e5d3f1bcdb9f93?source=copy_link">🔗</a></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<br>
+<!-------------- 프로젝트 영역 끝 -->
 <!-------------- 대회 영역 시작 -------------->
 <div align= "left">
-    <h2 style="color: rgba(33, 85, 255, 0.87);"> 
-        🏆 Competitions </h2>
+    <h4 style="color: rgba(33, 85, 255, 0.87);"> 
+        🏆 Competitions </h4>
     <table align="center">
         <thead>
             <tr>
@@ -227,17 +191,16 @@
 <!-------------- 알고리즘 영역 시작 -------------->
 <br>
 <div align="left">
-    <a href="https://solved.ac/profile/0w0n" target="_blank"><h2 style="color: rgba(33, 85, 255, 0.87);">
-       🐾 Algorithm (Solved.ac)
-    </h2></a>
+    <a href="https://solved.ac/profile/0w0n" target="_blank"><h4 style="color: rgba(33, 85, 255, 0.87);">
+       🐳 Algorithm (Solved.ac)
+    </h4></a>
     <div align="center">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0w0n" alt="Solved.ac 프로필"/>  
         <img src="http://mazandi.herokuapp.com/api?handle=0w0n&theme=warm" alt="mazandi profile"/>
-        <!--<img src="https://raw.githubusercontent.com/0w0n2/programmers-stats/main/output/result.svg" alt="Programmers Badge">-->
+        <!-- <img src="https://raw.githubusercontent.com/0w0n2/programmers-stats/main/output/result.svg" alt="Programmers Badge"> -->
         <!-- <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/0w0n" width="600" height="300"/></a> -->
     </div>
 </div>
-<br>
 <!-------------- 알고리즘 영역 끝 -------------->
 <!-------------- 블로그 영역 시작 -------------->
 <br>
@@ -250,18 +213,24 @@
         <a href="https://velog.io/@0w0n/posts"><img src="https://blogwidget.com/api/v/blog?name=0w0n"></a>
         <a href="https://blogwidget.com/api/v/link/0?name=0w0n"><img src="https://blogwidget.com/api/v/posting/0?name=0w0n" alt="최신글 1"></a>
         <a href="https://blogwidget.com/api/v/link/1?name=0w0n"><img src="https://blogwidget.com/api/v/posting/1?name=0w0n" alt="최신글 2"></a>
+        <a href="https://blogwidget.com/api/v/link/2?name=0w0n"><img src="https://blogwidget.com/api/v/posting/1?name=0w0n" alt="최신글 3"></a>
         <br>
     </div>
-</div> -->
-<br>
+</div>
+<br> -->
 <!-------------- 블로그 영역 끝 -------------->
 <!------------- 수상/연구 영역 시작 ------------->
 <br>
 <div align="left">
-  <h2 style="color: rgba(33, 85, 255, 0.87);">🎉 Awards & Research</h2>
+  <h4 style="color: rgba(33, 85, 255, 0.87);">🎉 Awards & Research</h4>
   <!-- <p>📌 <strong>[교내]</strong> 2023.12 LINC 3.0 사업단 2023-2학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>장려상</strong>)</p>
   <p>📌 <strong>[교내]</strong> 2024.07 LINC 3.0 사업단 2024-1학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>대상</strong>)</p> -->
   <!-- &nbsp;&nbsp;&nbsp;&nbsp; 🛏️ <strong>Sweet Dreams</strong> : 스마트폰 화면 상태를 감지해 클라우드 서버에 HTTP 요청을 보내고, 서버가 아두이노 장치를 제어하는 수면 유도 장치 -->
+  <p>🏆 삼성 청년 SW·AI 아카데미 청장상 (2025.12.08)</p>
+  <p>🏆 삼성 청년 SW·AI 아카데미 <a href="https://youtu.be/0qWuWFzB6g4">전시발표회 발표부문</a> 입상 (2025.12.02)</p>
+  <p>🏆 삼성 청년 SW·AI 아카데미 <a href="https://github.com/0w0n2/namuh">자율 프로젝트</a> 우수상 / 부울경 1반 1등 (2025.11.20)</p>
+  <p>🏆 삼성 청년 SW·AI 아카데미 <a href="https://github.com/0w0n2/tako">특화 프로젝트</a> 우수상 / 부울경 1반 3등 (2025.09.29)</p>
+  <p>🏆 삼성 청년 SW·AI 아카데미 <a href="https://github.com/gyudol/voida">공통 프로젝트</a> 우수상 / 부울경 1반 1등 (2025.08.18)</p>
   <p>
     📖 Kim, Nam-Gyun, et al. "Harnessing marine-derived polyphenols for the one-pot synthesis of functional silver nanoparticles: Anti-cancer, anti-bacterial, and MD simulation." 
     <em>Nano Today</em> 61 (2025): 
@@ -271,7 +240,3 @@
 
 <br>
 <!-------------- 수상/연구 영역 끝 -------------->
-<div align="center">
-    <h4 style="border-bottom: none; color: rgba(172, 218, 255, 0.87);">   
-        ♥ ♥ ♥
-</div>
