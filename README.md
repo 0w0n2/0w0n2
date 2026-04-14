@@ -20,7 +20,7 @@
     <h4>이혜원 (Hyewon Lee)</h4>
     <li><strong>Email</strong> | 0w0n2x@gmail.com </li>
     <li><a href="https://www.linkedin.com/in/%ED%98%9C%EC%9B%90-%EC%9D%B4-a72783386/"><strong>Linked In 🔗</strong></a></li>
-    <li><a href="https://recondite-crystal-dac.notion.site/Portfolio-0w0n2-2b686992872680beb6d9e925c9525186?source=copy_link"><strong>Portfolio 🔗</strong></a></li>
+    <!-- <li><a href="https://recondite-crystal-dac.notion.site/Portfolio-0w0n2-2b686992872680beb6d9e925c9525186?source=copy_link"><strong>Portfolio 🔗</strong></a></li> -->
 </div>
 </div>
 <!-------------- 컨택트 영역 끝 -------------->
