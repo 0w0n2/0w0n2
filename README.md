@@ -195,6 +195,7 @@
        🐳 Algorithm (Solved.ac)
     </h3></a>
     <div align="center">
+        <img src="https://raw.githubusercontent.com/0w0n2/programmers-stats/main/output/result.svg" alt="Programmers Badge">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0w0n" alt="Solved.ac 프로필"/>  
         <img src="http://mazandi.herokuapp.com/api?handle=0w0n&theme=warm" alt="mazandi profile"/>
         <!-- <img src="https://raw.githubusercontent.com/0w0n2/programmers-stats/main/output/result.svg" alt="Programmers Badge"> -->
@@ -226,7 +227,7 @@
   <!-- <p>📌 <strong>[교내]</strong> 2023.12 LINC 3.0 사업단 2023-2학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>장려상</strong>)</p>
   <p>📌 <strong>[교내]</strong> 2024.07 LINC 3.0 사업단 2024-1학기 캡스톤디자인 단과대학 경진대회 단장상 (<strong>대상</strong>)</p> -->
   <!-- &nbsp;&nbsp;&nbsp;&nbsp; 🛏️ <strong>Sweet Dreams</strong> : 스마트폰 화면 상태를 감지해 클라우드 서버에 HTTP 요청을 보내고, 서버가 아두이노 장치를 제어하는 수면 유도 장치 -->
-  <p>🏆 삼성 청년 SW·AI 아카데미 청장상 (2025.12.08)</p>
+  <p>🏆 삼성 청년 SW·AI 아카데미 부산고용노동지방청장상 (2025.12.08)</p>
   <p>🏆 삼성 청년 SW·AI 아카데미 <a href="https://youtu.be/0qWuWFzB6g4">전시발표회 발표부문</a> 입상 (2025.12.02)</p>
   <p>🏆 삼성 청년 SW·AI 아카데미 <a href="https://github.com/0w0n2/namuh">자율 프로젝트</a> 우수상 / 부울경 1반 1등 (2025.11.20)</p>
   <p>🏆 삼성 청년 SW·AI 아카데미 <a href="https://github.com/0w0n2/tako">특화 프로젝트</a> 우수상 / 부울경 1반 3등 (2025.09.29)</p>
