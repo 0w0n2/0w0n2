@@ -1,17 +1,15 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/55/4a/d7/554ad7e5faa1ce5c236cd1766cbe153b.gif" width="100%" alt="Profile banner" />
+<div align="left">
+  <img src="https://i.pinimg.com/originals/55/4a/d7/554ad7e5faa1ce5c236cd1766cbe153b.gif" width="50%" alt="Profile banner" />
 </div>
 
 <!-------------- 컨택트 영역 시작 -------------->
 <div align="left">
-  <h3 style="color: rgba(33, 85, 255, 0.87);">🏖️ Contact</h3>
-  <h4>이혜원 (Hyewon Lee, 李蕙園)</h4>
-  <h5>Software Engineer, Backend & Robotics</h5>
-
+  <h2 style="color: rgba(33, 85, 255, 0.87);">🏖️ Contact</h2>
+  <h3>이혜원 (Hyewon Lee, 李蕙園)</h3>
+  <h4>Software Engineer, Backend & Robotics</h4>
   <blockquote>
     <strong>변화에 유연한 구조를 고민하는 개발자 🦎</strong>
   </blockquote>
-
   <ul>
     <li>
       <span>
